@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="WebSearch.Core/WebSearch.Core.csproj" />
+  <Project Path="WebSearch.Infrastructure/WebSearch.Infrastructure.csproj" />
+  <Project Path="WebSearch.Providers/WebSearch.Providers.csproj" />
+  <Project Path="WebSearch.Samples/WebSearch.Samples.csproj" />
+  <Project Path="WebSearch.Tests/WebSearch.Tests.csproj" />
+  <Project Path="WebSearch/WebSearch.csproj" />
+</Solution>

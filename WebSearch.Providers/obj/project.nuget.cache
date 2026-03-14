@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/YiQWlICYLA=",
+  "success": true,
+  "projectFilePath": "E:\\projects\\websearch\\WebSearch.Providers\\WebSearch.Providers.csproj",
+  "expectedPackageFiles": [
+    "E:\\nuget-cache\\.nuget\\anglesharp\\1.4.0\\anglesharp.1.4.0.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\microsoft.playwright\\1.58.0\\microsoft.playwright.1.58.0.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

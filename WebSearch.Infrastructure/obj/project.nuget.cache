@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0hdiAnIqu2k=",
+  "success": true,
+  "projectFilePath": "E:\\projects\\websearch\\WebSearch.Infrastructure\\WebSearch.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "E:\\nuget-cache\\.nuget\\microsoft.extensions.caching.abstractions\\10.0.5\\microsoft.extensions.caching.abstractions.10.0.5.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\microsoft.extensions.caching.memory\\10.0.5\\microsoft.extensions.caching.memory.10.0.5.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\microsoft.extensions.logging.abstractions\\10.0.5\\microsoft.extensions.logging.abstractions.10.0.5.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\microsoft.extensions.options\\10.0.5\\microsoft.extensions.options.10.0.5.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\microsoft.extensions.primitives\\10.0.5\\microsoft.extensions.primitives.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
