@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "gegr/SdY5nY=",
+  "dgSpecHash": "e2u99/ohK5E=",
   "success": true,
   "projectFilePath": "E:\\projects\\websearch\\WebSearch.Samples\\WebSearch.Samples.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "E:\\nuget-cache\\.nuget\\anglesharp\\1.4.0\\anglesharp.1.4.0.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\microsoft.extensions.caching.abstractions\\10.0.5\\microsoft.extensions.caching.abstractions.10.0.5.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\microsoft.extensions.caching.memory\\10.0.5\\microsoft.extensions.caching.memory.10.0.5.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\microsoft.extensions.configuration.abstractions\\10.0.5\\microsoft.extensions.configuration.abstractions.10.0.5.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\microsoft.extensions.logging.abstractions\\10.0.5\\microsoft.extensions.logging.abstractions.10.0.5.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\microsoft.extensions.options\\10.0.5\\microsoft.extensions.options.10.0.5.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\microsoft.extensions.primitives\\10.0.5\\microsoft.extensions.primitives.10.0.5.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\microsoft.playwright\\1.58.0\\microsoft.playwright.1.58.0.nupkg.sha512",
+    "E:\\nuget-cache\\.nuget\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

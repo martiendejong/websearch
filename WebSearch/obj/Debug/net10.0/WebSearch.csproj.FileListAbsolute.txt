@@ -1,0 +1,6 @@
+E:\projects\websearch\WebSearch\obj\Debug\net10.0\WebSearch.csproj.AssemblyReference.cache
+E:\projects\websearch\WebSearch\obj\Debug\net10.0\WebSearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\websearch\WebSearch\obj\Debug\net10.0\WebSearch.AssemblyInfoInputs.cache
+E:\projects\websearch\WebSearch\obj\Debug\net10.0\WebSearch.AssemblyInfo.cs
+E:\projects\websearch\WebSearch\obj\Debug\net10.0\WebSearch.csproj.CoreCompileInputs.cache
+E:\projects\websearch\WebSearch\obj\Debug\net10.0\WebSearch.sourcelink.json

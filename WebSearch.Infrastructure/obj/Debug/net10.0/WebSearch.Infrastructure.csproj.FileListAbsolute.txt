@@ -1,0 +1,16 @@
+E:\projects\websearch\WebSearch.Infrastructure\bin\Debug\net10.0\WebSearch.Infrastructure.deps.json
+E:\projects\websearch\WebSearch.Infrastructure\bin\Debug\net10.0\WebSearch.Infrastructure.dll
+E:\projects\websearch\WebSearch.Infrastructure\bin\Debug\net10.0\WebSearch.Infrastructure.pdb
+E:\projects\websearch\WebSearch.Infrastructure\bin\Debug\net10.0\WebSearch.Core.dll
+E:\projects\websearch\WebSearch.Infrastructure\bin\Debug\net10.0\WebSearch.Core.pdb
+E:\projects\websearch\WebSearch.Infrastructure\obj\Debug\net10.0\WebSearch.Infrastructure.csproj.AssemblyReference.cache
+E:\projects\websearch\WebSearch.Infrastructure\obj\Debug\net10.0\WebSearch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\websearch\WebSearch.Infrastructure\obj\Debug\net10.0\WebSearch.Infrastructure.AssemblyInfoInputs.cache
+E:\projects\websearch\WebSearch.Infrastructure\obj\Debug\net10.0\WebSearch.Infrastructure.AssemblyInfo.cs
+E:\projects\websearch\WebSearch.Infrastructure\obj\Debug\net10.0\WebSearch.Infrastructure.csproj.CoreCompileInputs.cache
+E:\projects\websearch\WebSearch.Infrastructure\obj\Debug\net10.0\WebSearch.Infrastructure.sourcelink.json
+E:\projects\websearch\WebSearch.Infrastructure\obj\Debug\net10.0\WebSearc.29214582.Up2Date
+E:\projects\websearch\WebSearch.Infrastructure\obj\Debug\net10.0\WebSearch.Infrastructure.dll
+E:\projects\websearch\WebSearch.Infrastructure\obj\Debug\net10.0\refint\WebSearch.Infrastructure.dll
+E:\projects\websearch\WebSearch.Infrastructure\obj\Debug\net10.0\WebSearch.Infrastructure.pdb
+E:\projects\websearch\WebSearch.Infrastructure\obj\Debug\net10.0\ref\WebSearch.Infrastructure.dll

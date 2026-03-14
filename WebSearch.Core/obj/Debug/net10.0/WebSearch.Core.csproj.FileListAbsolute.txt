@@ -1,0 +1,12 @@
+E:\projects\websearch\WebSearch.Core\bin\Debug\net10.0\WebSearch.Core.deps.json
+E:\projects\websearch\WebSearch.Core\bin\Debug\net10.0\WebSearch.Core.dll
+E:\projects\websearch\WebSearch.Core\bin\Debug\net10.0\WebSearch.Core.pdb
+E:\projects\websearch\WebSearch.Core\obj\Debug\net10.0\WebSearch.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\websearch\WebSearch.Core\obj\Debug\net10.0\WebSearch.Core.AssemblyInfoInputs.cache
+E:\projects\websearch\WebSearch.Core\obj\Debug\net10.0\WebSearch.Core.AssemblyInfo.cs
+E:\projects\websearch\WebSearch.Core\obj\Debug\net10.0\WebSearch.Core.csproj.CoreCompileInputs.cache
+E:\projects\websearch\WebSearch.Core\obj\Debug\net10.0\WebSearch.Core.sourcelink.json
+E:\projects\websearch\WebSearch.Core\obj\Debug\net10.0\WebSearch.Core.dll
+E:\projects\websearch\WebSearch.Core\obj\Debug\net10.0\refint\WebSearch.Core.dll
+E:\projects\websearch\WebSearch.Core\obj\Debug\net10.0\WebSearch.Core.pdb
+E:\projects\websearch\WebSearch.Core\obj\Debug\net10.0\ref\WebSearch.Core.dll
