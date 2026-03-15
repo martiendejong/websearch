@@ -1,8 +1,8 @@
 # WebSearch Library - Current Status
 
 **Last Updated:** 2026-03-14
-**Version:** 1.0.0
-**Status:** ✅ PRODUCTION READY (with DuckDuckGo)
+**Version:** 1.0.1
+**Status:** ✅ PRODUCTION READY (with DuckDuckGo + Multi-targeting)
 
 ## ✅ **Working Features**
 
@@ -16,12 +16,14 @@
 - ✅ **RECOMMENDED FOR PRODUCTION USE**
 
 ### Infrastructure - **ALL WORKING**
+- ✅ **Multi-Targeting**: Supports .NET 8.0, 9.0, and 10.0
 - ✅ **Caching**: Second search is instant (0ms vs 988ms)
 - ✅ **Cache Statistics**: Hit/miss tracking, hit rate calculation
 - ✅ **Rate Limiting**: Token bucket algorithm, per-provider limits
 - ✅ **Factory Pattern**: Easy provider instantiation
 - ✅ **DI Support**: ASP.NET Core integration ready
 - ✅ **Thread Safety**: All components are thread-safe
+- ✅ **Hazina Integration**: Ready for Hazina framework projects
 
 ## ⚠️ **Known Limitations**
 
